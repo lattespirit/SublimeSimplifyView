@@ -11,13 +11,13 @@
 * ### Manual Installation
     * Using Git
         * Open terminal and change the path to Sublime `Packages` directory.(`Preferences > Browse Packages`).
-        * Run `git clone https://github.com/lattespirit/SublimeSimplifyView.git`.
+        * Run `git clone https://github.com/lattespirit/sublime-simplify-view.git`.
         * Done.
 
     * Using zip File
         * Click the `Preferences > Browse Packages…` menu.
-        * Download the [Package](https://github.com/lattespirit/SublimeSimplifyView/archive/master.zip) file. Unzip and place the whole folder to the path methoned in Step One.
-        * Rename the folder to `SublimeSimplifyView`.
+        * Download the [Package](https://github.com/lattespirit/sublime-simplify-view/archive/master.zip) file. Unzip and place the whole folder to the path methoned in Step One.
+        * Rename the folder to `SimplifyView`.
         * Done.
 
 # Usage
